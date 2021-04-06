@@ -6,7 +6,10 @@
 
 
 function getgetDayName () {
- alert ('проверка связи');
+alert ('проверка связи');
 }
 
 getgetDayName ()
+
+
+
